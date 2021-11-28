@@ -1,8 +1,8 @@
-##Overview##
+## Overvie w##
 The purpose of this analysis was to replace the reading and math test scores for ninth graders at Thomas High schools and to describe how the changes affect the overall analysis. 
 
 
-##Results##
+## Results ##
 
 How is the district summary affected?
 * There was very little change in the Math/Reading Average Score and Math/Reading Percentage Passed. A slight decrease in the Overall Passing Percent is the only noteworthy change. 
@@ -32,7 +32,7 @@ Scores by school type
 * Removing the ninth-grade scores had very little impact on scores by school type. 
 
 
-##Summary##
+## Summary ##
 The removal of ninth grade Math and Reading scores impacted Thomas High School in four major ways:
 
 * Overall passing rate. Thomas High School saw a huge decline in its passing rate, which fell from 91% to 65%
