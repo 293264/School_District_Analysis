@@ -1,4 +1,4 @@
-## Overvie w##
+## Overview ##
 The purpose of this analysis was to replace the reading and math test scores for ninth graders at Thomas High schools and to describe how the changes affect the overall analysis. 
 
 
