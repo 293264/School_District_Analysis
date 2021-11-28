@@ -4,8 +4,8 @@ The purpose of this analysis was to replace the reading and math test scores for
 
 ## Results ##
 
-How is the district summary affected?
-* There was very little change in the Math/Reading Average Score and Math/Reading Percentage Passed. A slight decrease in the Overall Passing Percent is the only noteworthy change. 
+1. How is the district summary affected?
+  * There was very little change in the Math/Reading Average Score and Math/Reading Percentage Passed. A slight decrease in the Overall Passing Percent is the only noteworthy change. 
 
 
 How is the school summary affected?
